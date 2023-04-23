@@ -16,3 +16,11 @@ A block building Roblox game. It also has an admin panel for some reason.
 ## Game footage
 
 I took the liberty of recording some of the features.
+
+https://user-images.githubusercontent.com/76173380/233814025-b6b500c5-1194-4d02-8731-370e1fa214b4.mp4
+
+https://user-images.githubusercontent.com/76173380/233814052-d9a92aa6-5af3-4236-a241-b4487f13f998.mp4
+
+https://user-images.githubusercontent.com/76173380/233814053-3dc73a94-4b63-4d7c-92d8-c9db85c8cc8f.mp4
+
+https://user-images.githubusercontent.com/76173380/233814054-d3eef661-93b9-496f-8819-9598151da932.mp4
